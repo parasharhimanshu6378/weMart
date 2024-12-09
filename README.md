@@ -9,7 +9,7 @@
   <br />
   <br />
   
-  <img src="./readme-images/project-logo.png" />
+  <img src="../readme-images/project-logo.png" />
 
   <h2 align="center">Casmart - eCommerce website</h2>
 
@@ -23,7 +23,7 @@
 
 ### Demo Screeshots
 
-![Casmart Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Casmart Desktop Demo](../readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
